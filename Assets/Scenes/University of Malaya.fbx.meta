@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: dd3d791d17d45ab4c98e7eb33382a1d6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2nd Floor 2
+    second: {fileID: 2800000, guid: 1a0faf5b15046304ebc29f220c61343b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2nd Floor General Building 1
+    second: {fileID: 2800000, guid: a8002808c389e6d4fb8b228ddd454041, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2nd Floor General Building 3
+    second: {fileID: 2800000, guid: 0727ab0e301696946af5b7eb694a5190, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2nd Floor KK5
+    second: {fileID: 2800000, guid: 99a1a21180398064eb5da3f932b78fd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2nd Floor PPUM
+    second: {fileID: 2800000, guid: 85ef718b92e77624a8e572d8fcfb1001, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color
+    second: {fileID: 2800000, guid: e7117d97bc8852c409b8bb3ccf522db8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 'Base Color 2nd Floor Law '
+    second: {fileID: 2800000, guid: 3f36efef321b0b045b6b6f6dd6ef5b93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Business Cafe
+    second: {fileID: 2800000, guid: 7ba0d5ed486379843a978ca90633b295, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Business H11
+    second: {fileID: 2800000, guid: 0ab049b3500c5764aae132978c5b9370, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Business Hashim HD
+    second: {fileID: 2800000, guid: bf15767b48b631c4eb94e6e6647c38fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color DTC
+    second: {fileID: 2800000, guid: 0cd2af3c4e4865f4db842f328c6cd243, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Engineering (Blok A)
+    second: {fileID: 2800000, guid: 98aec9b54414ca24ca7450ece4328079, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Faculty 2
+    second: {fileID: 2800000, guid: 03206a0d86f1ba14eb663a3e23f1e57c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Faculty Linguistics
+    second: {fileID: 2800000, guid: d90807a087f739b4f89e5de2a3b9f44b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Faculty Science
+    second: {fileID: 2800000, guid: 0664d8d016970e74d82997e953eac8ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color General Building 1
+    second: {fileID: 2800000, guid: 28c6f7219427e6b429d9036aafdd2b5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color General Building 3
+    second: {fileID: 2800000, guid: be7137c62e7c7384d86f119fa51c3ff5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KK1
+    second: {fileID: 2800000, guid: d39ffa217b4307a489c4d85b8ce1d2b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KK11
+    second: {fileID: 2800000, guid: 34348cb7a31a74d4aaab4911dc42cfe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KK11 Big
+    second: {fileID: 2800000, guid: cf52e6ebd60a06b4eaab302e59352a7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KK12
+    second: {fileID: 2800000, guid: a968f47c1e06bfa428d9b5dfe0b5244d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KK8 Building
+    second: {fileID: 2800000, guid: b8236c768a478a3499f1d355572e2a62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color KPS Building 1
+    second: {fileID: 2800000, guid: 1b7ed28d00630864380cc5fd2d277804, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Law Faculty
+    second: {fileID: 2800000, guid: caa480a7010939749b47922f13397db4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Library
+    second: {fileID: 2800000, guid: 20436002aa3c51941875e8a2c59729c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 'Base Color Medicine '
+    second: {fileID: 2800000, guid: 054f6ec5f0165dd41ac33031995c0bd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color PTM
+    second: {fileID: 2800000, guid: de3f4b4e446b98549a5cbf21b8d09858, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color Pharmacy.001
+    second: {fileID: 2800000, guid: 23e0424b281158c42a5ef66d45bf7e7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color UM Gate
+    second: {fileID: 2800000, guid: ed8ea414f37e4b5448ee2ff19b5526cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color UMX
+    second: {fileID: 2800000, guid: 60729aafb4d253345b497b6e5c8fbc38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Color UMX 2nd
+    second: {fileID: 2800000, guid: 7647584593902854fa568bbbfb6b9b30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base Colour FSKTM (BLokB)
+    second: {fileID: 2800000, guid: 47e94308368348f4da49de5892ad780f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bot Color KK12
+    second: {fileID: 2800000, guid: a72e1df8ac0e4d1479671fa7663a86b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Building 3 Base
+    second: {fileID: 2800000, guid: 42ced510ae7a85c49aa4f9087ecc5d96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dark Blue
+    second: {fileID: 2800000, guid: c2c21540cda548e4e9ad535420dde3f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Engineering Blok X Base
+    second: {fileID: 2800000, guid: c89cb3c954c854f4ab573f3eb9de0007, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FSKTM Base Color
+    second: {fileID: 2800000, guid: 4534a75f041d4aa4ab2311629071cd0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 'FSKTM Electrical Base Color '
+    second: {fileID: 2800000, guid: cf516a3e6e36d604ba062fa4ec3041d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric023_2K-JPG_NormalGL
+    second: {fileID: 2800000, guid: b3cff4043d480d843a176a46440cd6b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric023_2K-JPG_Roughness
+    second: {fileID: 2800000, guid: f91ecadcfee37584caf3e751e0674c36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fass Blok
+    second: {fileID: 2800000, guid: 6ead95418430f8445939fa0e9ac7d59f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fass Blok 2
+    second: {fileID: 2800000, guid: 7358a731bbd90f64cb2feadd31b1fb9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fass Blok 3
+    second: {fileID: 2800000, guid: 33ab23ee98687d24c9f35e79a5bd4b73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fass Building 1
+    second: {fileID: 2800000, guid: adac6d6949bdcfd44a7b24e8309aef48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geology Base COlor
+    second: {fileID: 2800000, guid: df43b2f1f553cfc4b84c308484852b3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass004_2K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 37e0407ef97152d4d8c7b067743d786e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2800000, guid: 6ac906570be850a4dba648bc8caf70d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ground Floor KK5
+    second: {fileID: 2800000, guid: f62ed6ab5e206ce45bd2a7dd491a492c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ground Floor PPUM
+    second: {fileID: 2800000, guid: 360ee638f7cf960499ee8b877e9ab4dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gym Base
+    second: {fileID: 2800000, guid: 62d7c571d6a9b3241852c69dd705aa34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: JPPHB Base
+    second: {fileID: 2800000, guid: 5a7fd23b2aec6734daa4a50a05371753, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KK2 Base
+    second: {fileID: 2800000, guid: cfa5e1f6b73a6364dad1aff5d67f0d4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KK7 Base Color
+    second: {fileID: 2800000, guid: 6d4559bfd51af2744ace67a6dc44cf19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KK8 Main
+    second: {fileID: 2800000, guid: 9ab16c6f24db0eb43a2dc875e9716c4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Khamba
+    second: {fileID: 2800000, guid: de268a460dd5e5548800f2edbe6f4981, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMap (11)
+    second: {fileID: 2800000, guid: 16599517d7f4fde4eaf0535d8a1bd8db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2800000, guid: 1bd8913017f446740a359a9f75d17cb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Railing
+    second: {fileID: 2800000, guid: e9c59bc671e82f54ca612cdcd86c0c72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Red Wall
+    second: {fileID: 2800000, guid: eb3a6380121e49346b75f1327f248245, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2800000, guid: 60d780d52d0b7844cb081a43e2a0ca8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 'Roof KK12 '
+    second: {fileID: 2800000, guid: b5f24662c64ec0d42930c39d9c00dcc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof KK5
+    second: {fileID: 2800000, guid: 13f1e8994860c944ca77fe47571eccd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Side KK12
+    second: {fileID: 2800000, guid: f318cd86e9db49945943e4c84f33bb8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs KK8
+    second: {fileID: 2800000, guid: 816e484323f806f46af7b661d8584c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FabricLinen_512_albedo
+    second: {fileID: 2800000, guid: 332cd394905866f4aaca0258915126d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FabricLinen_512_normal
+    second: {fileID: 2800000, guid: 81d3a379aa257554bb8db78c02006bb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FabricLinen_512_roughness
+    second: {fileID: 2800000, guid: 268d4b3b3a9fec641bc9667c7799ec3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_GalvanizedSteel_Old_1K_albedo
+    second: {fileID: 2800000, guid: b8c373ae14202c44490cf0678a9fbdcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_GalvanizedSteel_Old_1K_metallic
+    second: {fileID: 2800000, guid: ff88278bd77f16b4599eb3325ae67867, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_BrassPolished_1K_albedo2
+    second: {fileID: 2800000, guid: 3b6da02936c9e2340a1c03496c84a6a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_BrassPolished_1K_metallic
+    second: {fileID: 2800000, guid: ba01a49c7909c6144881cf84462b85f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_BrassPolished_1K_normal
+    second: {fileID: 2800000, guid: d9c15de4920c3de41aa865105a8ceda0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_StainlessClean_1K_albedo
+    second: {fileID: 2800000, guid: 4eb7e320d573421448ecd10c18897010, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_StainlessClean_1K_metallic
+    second: {fileID: 2800000, guid: 7e7f7a26dc2733947a06442a7d978c1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Metal_StainlessClean_1K_normal
+    second: {fileID: 2800000, guid: 6c0c1faa4fc0906449f015fd6da62017, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Paint_Blistered_1K_normal
+    second: {fileID: 2800000, guid: c42a090e9b955724bbafa9b0905eeefc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Tarp3_512_albedo
+    second: {fileID: 2800000, guid: 5a436ba86d666cd4c98ef91278a5b816, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Tarp3_512_metallic
+    second: {fileID: 2800000, guid: 62e9456108fd1314fb533f7da4c990d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Tarp3_512_normal
+    second: {fileID: 2800000, guid: 2df6a8899597cc345aa31e8638d915be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Tarp3_512_roughness
+    second: {fileID: 2800000, guid: f9c53bfa28cf19f45842df7b3e249508, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Rope_BraidedMooring_512_metallic
+    second: {fileID: 2800000, guid: be6485c2a66dbe845ab22925e28d3b5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Rope_BraidedMooring_512_normal
+    second: {fileID: 2800000, guid: 20f6b7665aa61184fb0ba4e5b9d049af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Rope_BraidedMooring_512_roughness
+    second: {fileID: 2800000, guid: c6fe0aea371ccd94bb3e12fb8acc3019, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Top Floor 3
+    second: {fileID: 2800000, guid: 2708b5f5586615e4b858e010ce774428, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Top Floor PPUM
+    second: {fileID: 2800000, guid: 3658e62a7b99fee43bcc3030f6009060, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2800000, guid: 23dded49aa31553448ecad1436ad7c13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2800000, guid: 5208075d31942b34f8a4a7d6ee51f1a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White Walls
+    second: {fileID: 2800000, guid: 32a2fd1b0409c4a41853a3636fdabf62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White roof
+    second: {fileID: 2800000, guid: fb173d2fe10f13d40b26196e4c11ecee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood052_2K-JPG_Color
+    second: {fileID: 2800000, guid: 69e37c1c0bcaac742a41da4da35d276e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood052_2K-JPG_Roughness
+    second: {fileID: 2800000, guid: 76accfcefa1b1984b9e63fe51473bd5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: istockphoto-121357026-612x612
+    second: {fileID: 2800000, guid: 388c275845dc43c459fef347357a854a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
